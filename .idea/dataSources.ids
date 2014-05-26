@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="eeb86eaa-e8ac-4af4-a05d-2a8cb1c72694">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Derby -" uuid="467637ee-b102-4af8-a6c3-c625a3b7f11a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Derby - [2]" uuid="1f8f1e19-e543-4146-b25f-a3f7172ecfdc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
